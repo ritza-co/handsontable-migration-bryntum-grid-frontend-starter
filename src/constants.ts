@@ -1202,3 +1202,4 @@ export const data = [
 ];
 
 export const ODD_ROW_CLASS = "odd";
+export const API_BASE_URL = 'http://localhost:3000';
