@@ -1,6 +1,16 @@
+/* FontAwesome is used for icons */
+@import "@bryntum/grid/fontawesome/css/fontawesome.css";
+@import "@bryntum/grid/fontawesome/css/solid.css";
+/* Import grid's structural CSS */
+@import "@bryntum/grid/grid.css";
+/* Import your preferred Bryntum theme */
+@import "@bryntum/grid/svalbard-light.css";
+
 /*
   Reset body and html to remove default margins/padding
 */
+
+
 html, body {
   margin: 0;
   padding: 0;
