@@ -18,8 +18,8 @@
     "test": "node spec/support/jasmine.config.js"
   },
   "dependencies": {
-    "@bryntum/grid": "^7.0.1",
-    "@bryntum/grid-react": "^7.0.1",
+    "@bryntum/grid": "^7.2.2",
+    "@bryntum/grid-react": "^7.2.2",
     "@handsontable/pikaday": "^1.0.0",
     "@handsontable/react-wrapper": "latest",
     "handsontable": "latest",

@@ -6,6 +6,8 @@
 /* Import your preferred Bryntum theme */
 @import "@bryntum/grid/svalbard-light.css";
 
+@import "https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap";
+
 /*
   Reset body and html to remove default margins/padding
 */
@@ -16,6 +18,10 @@ html, body {
   padding: 0;
   height: 100vh;
   width: 100vw;
+}
+
+body {
+  font-family: Poppins, "Open Sans", Helvetica, Arial, sans-serif;
 }
 
 #root {
